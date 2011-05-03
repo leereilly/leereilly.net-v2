@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Ocra10';
+  src: url('../fonts/ocra10.ttf');
+  src: local(''), url('../fonts/ocra10.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+pre {font: 18px 'Ocra10', Arial, sans-serif;letter-spacing: 0;}
